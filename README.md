@@ -1,7 +1,7 @@
 ### 👋 Hey! I'm Jonathan Zhu
-    📚 I am a recent graduate from Ontario Tech University
-    📫 You can email me at: JonathanZhu25@gmail.com
-    🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-zhu25/)
+* 📚 I am a recent graduate from Ontario Tech University
+* 📫 You can email me at: JonathanZhu25@gmail.com
+* 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-zhu25/)
 
 <!--
 **ImJonathanZ/ImJonathanZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
