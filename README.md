@@ -1,5 +1,5 @@
 ### 👋 Hey! I'm Jonathan Zhu
-* 📚 I am a recent graduate from Ontario Tech University
+* 📚 I am a Master of Electrical and Computer Engineering student at University of Waterloo!
 * 📫 You can email me at: JonathanZhu25@gmail.com
 * 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-zhu25/)
 
