@@ -1,5 +1,6 @@
 ### 👋 Hey! I'm Jonathan Zhu
-* 📚 I am a Master of Electrical and Computer Engineering student at University of Waterloo!
+* 📚 I am a Master of Engineering (MEng) student in Electrical and Computer Engineering at the University of Waterloo!
+* 📚 I graduated with a Bachelor of Science (Honours) in Computer Science, achieving Highest Distinction, from Ontario Tech University!
 * 📫 You can email me at: JonathanZhu25@gmail.com
 * 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-zhu25/)
 
